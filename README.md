@@ -11,3 +11,5 @@ Mehobmehob/Mehobmehob is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Heat map](https://github.com/user-attachments/assets/0be478e1-11c0-430d-a993-1b525ce9cda7)
+Our data incldues the samle volume of a number of items that are sold in different outlets and in different locations in terms of outlet location abd type. There are different items that varry in weight, in fat content.Through the data collected, we are going to analize the volume of such items and how sales vary from one place/ item to another.
+we noted that some data is missing, therefore we need to analyze such data in order to fix these missing data before starting the analysis.
